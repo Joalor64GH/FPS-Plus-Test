@@ -96,6 +96,8 @@
 	<haxelib name="flixel-addons" />
 	<haxelib name="flixel-ui" />
 	<haxelib name="compiletime" />
+
+	<haxelib name="hxcpp-debug-server" if="desktop debug"/>
 	
 	<!--haxelib name="newgrounds"/-->
 	<!--haxelib name="faxe" if='switch'/-->
